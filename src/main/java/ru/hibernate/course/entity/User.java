@@ -79,5 +79,4 @@ public class User {
     @ToString.Exclude
     private Profile profile;
 
-    private 
 }
